@@ -69,7 +69,7 @@
             display-name = "Lower";
             bindings = <
 &kp ESCAPE  &kp N1  &kp N2  &kp N3    &kp N4  &kp N5       &kp N6   &kp N7   &kp N8          &kp N9          &kp N0           &kp BSPC
-&kp LCTRL   &kt F1  &kt F2  &kt F3    &kt F4  &kt LGUI(C)    &kt LEFT_ARROW   &kp UP_ARROW   &kt DOWN_ARROW     &kt RIGHT_ARROW    &trans           &trans
+&kp LCTRL   &kt F1  &kt F2  &kt F3    &kt F4  &kt LGUI(C)    &kt LEFT_ARROW   &kt DOWN_ARROW   &kt UP_ARROW     &kt RIGHT_ARROW    &trans           &trans
 &kp LSHFT   &kt F5  &kt F6  &kt F7    &kt F8  &kt LGUI(V)    &kt F9  &kt F10  &kt F11  &kt F12  &trans  &trans
                             &kp LGUI  &trans  &kp SPACE    &kp RET  &mo 3   &kp RALT
             >;
